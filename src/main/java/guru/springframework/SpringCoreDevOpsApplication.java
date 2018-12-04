@@ -10,7 +10,8 @@ public class SpringCoreDevOpsApplication {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
 		//this is a whitespace change test
-		//TEST
+		//TEST - polling
+		//TEST Web Hook
 		// another test...
 	}
 }
